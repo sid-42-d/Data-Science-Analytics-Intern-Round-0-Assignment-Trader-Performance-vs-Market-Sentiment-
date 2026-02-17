@@ -14,7 +14,8 @@ Analyzing the relationship between Bitcoin market sentiment (Fear/Greed Index) a
 │   ├── *.png                                       # Performance charts
 │   └── *.csv                                       # Data tables
 ├── data/                                           # Project documentation
-└── LICENSE
+├── README.md                                       # Project documentation
+└── LICENSE                                         # MIT License
 ```
 
 ## Requirements
@@ -34,10 +35,21 @@ cd Data-Science-Analytics-Intern-Round-0-Assignment-Trader-Performance-vs-Market
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ```
 
-### 3. Prepare Data
-Place your data files:
-- `fear_greed_index.csv` - Bitcoin sentiment data
-- `trader_data.csv` - Hyperliquid trading history
+### 3. Download Data Files
+
+Download the required datasets:
+
+**Bitcoin Market Sentiment (Fear/Greed Index):**
+```
+https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+```
+
+**Hyperliquid Trading Data:**
+```
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+```
+
+Place downloaded files in your working directory or update file paths in the notebook accordingly.
 
 ## How to Run
 
@@ -46,11 +58,6 @@ Place your data files:
 2. Mount Google Drive and update file paths in the notebook
 3. Run all cells: `Runtime > Run all`
 
-### Jupyter Notebook (Local)
-```bash
-jupyter notebook Trader_Performance_vs_Market_Sentiment.ipynb
-```
-Update file paths to local data location, then run all cells.
 
 ## Analysis Workflow
 1. **Data Preparation** - Load, clean, merge sentiment & trading data
