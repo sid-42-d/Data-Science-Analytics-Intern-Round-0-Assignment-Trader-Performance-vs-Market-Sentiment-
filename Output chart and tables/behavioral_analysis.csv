@@ -1,0 +1,5 @@
+classification,Avg_Position_Size,Long_Ratio,Taker_Ratio,Total_Trades,Long_Short_Ratio
+Extreme Greed,5660.266,0.484,0.55,6962,0.94
+Fear,5259.978,0.494,0.601,133871,0.98
+Greed,3182.884,0.425,0.588,36289,0.74
+Neutral,3058.848,0.491,0.799,7141,0.96

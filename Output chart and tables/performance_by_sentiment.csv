@@ -1,0 +1,5 @@
+classification,Total_PnL,Avg_PnL_Per_Trade,Win_Rate,Avg_Trade_Size,Num_Trades
+Extreme Greed,170152.71,24.44,0.57,5660.27,6962
+Fear,6554907.15,48.96,0.41,5259.98,133871
+Greed,3165282.5,87.22,0.45,3182.88,36289
+Neutral,149998.5,21.01,0.31,3058.85,7141

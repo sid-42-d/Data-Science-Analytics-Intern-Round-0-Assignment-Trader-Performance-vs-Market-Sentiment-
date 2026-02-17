@@ -1,0 +1,33 @@
+Account,Total_PnL,Avg_PnL,PnL_Std,Win_Rate,Avg_Trade_Size,Total_Trades,Trading_Days,Trades_Per_Day,Frequency_Segment,Performance_Segment,Volume_Segment
+0x083384f897ee0f19899168e3b1bec365f52a9012,1592824.51,417.19,4690.76,0.36,16159.58,3818,2,1909.0,Frequent,Inconsistent/Loser,High Volume
+0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd,35839.09,9.3,181.09,0.44,1759.74,3853,2,1926.5,Frequent,Inconsistent/Loser,Low Volume
+0x271b280974205ca63b716753467d5a371de622ab,28074.03,24.5,116.33,0.39,10908.18,1146,3,382.0,Infrequent,Inconsistent/Loser,High Volume
+0x28736f43f1e871e6aa8b1148d38d4994275d72c4,130098.66,9.81,113.54,0.43,509.02,13266,2,6633.0,Frequent,Inconsistent/Loser,Low Volume
+0x2c229d22b100a7beb69122eed721cee9b24011dd,165520.74,51.18,255.71,0.52,3142.91,3234,2,1617.0,Frequent,Consistent Winner,Low Volume
+0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891,-27826.39,-45.1,636.83,0.29,1894.04,617,6,102.8,Infrequent,Inconsistent/Loser,Low Volume
+0x39cef799f8b69da1995852eea189df24eb5cae3c,12998.26,3.62,730.58,0.33,4790.58,3589,2,1794.5,Frequent,Inconsistent/Loser,High Volume
+0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6,53319.97,160.6,1279.55,0.48,3445.47,332,2,166.0,Infrequent,Inconsistent/Loser,High Volume
+0x420ab45e0bd8863569a5efbb9c05d91f40624641,199237.63,520.2,2227.93,0.23,5189.37,383,2,191.5,Infrequent,Inconsistent/Loser,High Volume
+0x430f09841d65beb3f27765503d0f850b8bce7713,415852.11,395.67,1782.47,0.57,2580.5,1051,4,262.8,Infrequent,Consistent Winner,Low Volume
+0x47add9a56df66b524d5e2c1993a43cde53b6ed85,100748.06,12.08,89.1,0.35,520.72,8340,2,4170.0,Frequent,Inconsistent/Loser,Low Volume
+0x4acb90e786d897ecffb614dc822eb231b4ffb9f4,666766.44,161.29,874.5,0.49,8954.38,4134,2,2067.0,Frequent,Inconsistent/Loser,High Volume
+0x4f93fead39b70a1824f981a54d4e55b278e9f760,261209.94,34.93,660.52,0.35,17091.24,7479,4,1869.8,Frequent,Inconsistent/Loser,High Volume
+0x513b8629fe877bb581bf244e326a047b249c4ff1,375332.54,62.56,723.55,0.39,27373.69,6000,2,3000.0,Frequent,Inconsistent/Loser,High Volume
+0x6d6a4b953f202f8df5bed40692e7fd865318264a,108361.01,131.83,508.13,0.49,779.88,822,2,411.0,Infrequent,Inconsistent/Loser,Low Volume
+0x72743ae2822edd658c0c50608fd7c5c501b2afbd,424356.49,374.21,2980.46,0.45,9561.08,1134,2,567.0,Infrequent,Inconsistent/Loser,High Volume
+0x72c6a4624e1dffa724e6d00d64ceae698af892a0,393401.78,289.69,1584.57,0.28,2179.49,1358,2,679.0,Infrequent,Inconsistent/Loser,Low Volume
+0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4,359138.94,40.14,180.28,0.84,2755.62,8948,4,2237.0,Frequent,Consistent Winner,Low Volume
+0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f,14010.36,9.02,72.39,0.45,3643.36,1554,1,1554.0,Infrequent,Inconsistent/Loser,High Volume
+0x8170715b3b381dffb7062c0298972d4727a0a63b,195419.47,63.63,434.34,0.29,2250.14,3071,2,1535.5,Infrequent,Inconsistent/Loser,Low Volume
+0x8381e6d82f1affd39a336e143e081ef7620a3b7f,61220.27,32.99,329.71,0.32,6292.95,1856,2,928.0,Infrequent,Inconsistent/Loser,High Volume
+0x8477e447846c758f5a675856001ea72298fd9cb5,74213.97,6.62,77.31,0.31,812.65,11216,3,3738.7,Frequent,Inconsistent/Loser,Low Volume
+0x92f17e8d81a944691c10e753af1b1baae1a2cd0d,106981.96,38.15,157.8,0.31,3302.61,2804,2,1402.0,Infrequent,Inconsistent/Loser,High Volume
+0xa0feb3725a9335f49874d7cd8eaad6be45b27416,87378.26,6.48,73.02,0.35,1307.23,13485,2,6742.5,Frequent,Inconsistent/Loser,Low Volume
+0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0,72656.55,174.24,976.98,0.57,2066.69,417,3,139.0,Infrequent,Consistent Winner,Low Volume
+0xae5eacaf9c6b9111fd53034a602c192a04e082ed,29287.99,78.73,263.31,0.41,3233.53,372,2,186.0,Infrequent,Inconsistent/Loser,Low Volume
+0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb,21217.09,39.73,286.63,0.32,8330.19,534,2,267.0,Infrequent,Inconsistent/Loser,High Volume
+0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23,2025104.1,140.53,1377.24,0.36,3879.32,14410,5,2882.0,Frequent,Inconsistent/Loser,High Volume
+0xb899e522b5715391ae1d4f137653e7906c5e2115,-6154.67,-1.27,335.77,0.43,22504.56,4838,1,4838.0,Frequent,Inconsistent/Loser,High Volume
+0xbaaaf6571ab7d571043ff1e313a9609a10637864,931560.51,43.96,565.4,0.46,3210.78,21190,1,21190.0,Frequent,Inconsistent/Loser,Low Volume
+0xbd5fead7180a9c139fa51a103cb6a2ce86ddb5c3,333032.58,134.4,1510.97,0.35,7524.48,2478,2,1239.0,Infrequent,Inconsistent/Loser,High Volume
+0xbee1707d6b44d4d52bfe19e41f8a828645437aab,799158.65,21.87,276.71,0.43,1862.8,36534,2,18267.0,Frequent,Inconsistent/Loser,Low Volume

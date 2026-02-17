@@ -1,0 +1,4 @@
+Model,Accuracy,Description
+Multi-Class RF,0.4167,Predict 3 buckets (Low/Medium/High)
+Binary RF,0.7408,Predict High vs Not High
+Binary XGBoost,0.7658,Predict High vs Not High (Best)
