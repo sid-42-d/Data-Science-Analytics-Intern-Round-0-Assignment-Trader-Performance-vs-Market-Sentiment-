@@ -9,13 +9,14 @@ Analyzing the relationship between Bitcoin market sentiment (Fear/Greed Index) a
 
 ## Repository Structure
 ```
-├── Trader_Performance_vs_Market_Sentiment.ipynb    # Main analysis notebook
 ├── Output chart and tables/                        # All visualizations & results
 │   ├── *.png                                       # Performance charts
 │   └── *.csv                                       # Data tables
 ├── data/                                           # Project documentation
-├── README.md                                       # Project documentation
-└── LICENSE                                         # MIT License
+├── Final_Summary.pdf                               # One-page summary (methodology, insights, strategies)
+├── LICENSE                                         # MIT License
+├── README.md                                       # Project documentation & setup guide
+└── Trader_Performance_vs_Market_Sentiment.ipynb    # Main analysis notebook
 ```
 
 ## Requirements
